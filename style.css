@@ -5,7 +5,7 @@
 
 body {
 
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 header {
@@ -67,6 +67,9 @@ nav a:hover {
 
 .hero h2 {
   font-size: 3vw;
+}
+
+h1.grid-main-title {
 }
 
 .text-only {
